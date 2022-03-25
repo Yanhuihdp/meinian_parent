@@ -8,5 +8,12 @@ public class ABC {
     public static void main(String[] args) {
         System.out.println("1111111111111AAAAAA");
         System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB");
     }
 }
