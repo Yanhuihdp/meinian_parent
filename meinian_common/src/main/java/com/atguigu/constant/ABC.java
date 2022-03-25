@@ -9,11 +9,11 @@ public class ABC {
         System.out.println("1111111111111AAAAAA");
         System.out.println("1111111111111_BBBBBBBB");
         System.out.println("1111111111111_BBBBBBBB");
-        System.out.println("1111111111111_BBBBBBBB");
-        System.out.println("1111111111111_BBBBBBBB");
-        System.out.println("1111111111111_BBBBBBBB");
-        System.out.println("1111111111111_BBBBBBBB");
-        System.out.println("1111111111111_BBBBBBBB");
-        System.out.println("1111111111111_BBBBBBBB");
+        System.out.println("1111111111111_BBBBBBBB11");
+        System.out.println("1111111111111_BBBBBBBB11");
+        System.out.println("1111111111111_BBBBBBBB111");
+        System.out.println("1111111111111_BBBBBBBB111");
+        System.out.println("1111111111111_BBBBBBBB1111");
+        System.out.println("1111111111111_BBBBBBBB1111");
     }
 }
